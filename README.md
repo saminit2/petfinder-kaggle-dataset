@@ -20,5 +20,5 @@ Type of data i dealt with was a `.csv` file.
 
 I used [`RandomForestClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn-ensemble-randomforestclassifier)  and [`GridSearchCV`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn-model-selection-gridsearchcv) from [scikit-learn](https://scikit-learn.org/)
 
-In this notebook i reached the accuracy of 88.51%; feel free to enhance it.
+For this model, i reached the accuracy of 88.51%; feel free to enhance it.
 I have uploaded the `.pkl` file and the link to the [dataset](https://drive.google.com/file/d/1Ae3X8X2tmCDVkfk_ev9i8Nm7ByytUZ-h/view?usp=drive_link)
