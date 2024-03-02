@@ -22,10 +22,10 @@ The code is organized into several functions to maintain clarity and modularity.
 1. **Download the Dataset**: Click [here](https://drive.google.com/file/d/1Ae3X8X2tmCDVkfk_ev9i8Nm7ByytUZ-h/view) to download the dataset from Google Drive.
 2. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
 3. **Install Dependencies**: Install the required dependencies listed in `requirements.txt` using `pip install -r requirements.txt`.
-4. **Run the Code**: Execute the `main.py` script to train and evaluate the models.
+4. **Run the Code**: Execute the `pet_finder.py` script to train and evaluate the models.
 
 ## File Structure
-- `main.py`: Main Python script containing the code for data loading, preprocessing, model training, evaluation, and visualization.
+- `pet_finder.py`: Main Python script containing the code for data loading, preprocessing, model training, evaluation, and visualization.
 - `petfinder-mini.csv`: Dataset containing information about pets and their adoption speed.
 - `README.md`: This file contains information about the project.
 
